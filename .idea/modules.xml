@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception/Exception.iml" filepath="$PROJECT_DIR$/Exception/Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterfaceAndToString/InterfaceAndToString.iml" filepath="$PROJECT_DIR$/InterfaceAndToString/InterfaceAndToString.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practices-2/Practices-2.iml" filepath="$PROJECT_DIR$/Practices-2/Practices-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practices-3/Practices-3.iml" filepath="$PROJECT_DIR$/Practices-3/Practices-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-basics.iml" filepath="$PROJECT_DIR$/oop-basics.iml" />
