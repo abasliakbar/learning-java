@@ -71,9 +71,9 @@ After getting comfortable with Java:
 ```text
 TheJavaJourney/
 │
-├── Practices-1/
-├── Practices-2/
-├── Practices-3/
+├── Encapsulation/
+├── Exception/
+├── InterfaceAndToString/
 ├── src/
 └── README.md
 ```
