@@ -1,8 +1,13 @@
+import java.time.LocalDateTime;
+import java.time.LocalTime;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
+import java.util.Locale;
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        /*
         Aircraft aircraft = new Aircraft("Airbus A350-1000", 970, 67.5);
 
         System.out.println("Model: " + aircraft.getModel());
@@ -23,5 +28,12 @@ public class Main {
             foods.add(food);
         }
         System.out.println(foods);
+         */
+        // !!! Local Time !!!
+        LocalDateTime dateTime = LocalDateTime.now();
+        DateTimeFormatter dateTimeFormatter = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");
+        String newTime = dateTime.format(dateTimeFormatter);
+        System.out.println(newTime);
+
     }
 }
