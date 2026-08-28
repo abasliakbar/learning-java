@@ -1,5 +1,4 @@
-# ☕ TheJavaJourney
-
+# ☕ Java Roadmap
 My journey of learning **Java** and becoming a **Backend Developer**.
 
 This repository contains my Java practice, exercises, OOP projects, and everything I build while learning Java step by step.
