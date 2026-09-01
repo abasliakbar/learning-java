@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/InterfaceAndToString/InterfaceAndToString.iml" filepath="$PROJECT_DIR$/InterfaceAndToString/InterfaceAndToString.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practices-2/Practices-2.iml" filepath="$PROJECT_DIR$/Practices-2/Practices-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practices-3/Practices-3.iml" filepath="$PROJECT_DIR$/Practices-3/Practices-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadAndMulti-Thread/ThreadAndMulti-Thread.iml" filepath="$PROJECT_DIR$/ThreadAndMulti-Thread/ThreadAndMulti-Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThreadingAndMultiThreading/ThreadingAndMultiThreading.iml" filepath="$PROJECT_DIR$/ThreadingAndMultiThreading/ThreadingAndMultiThreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/TimerAndTimerTasks/TimerAndTimerTasks.iml" filepath="$PROJECT_DIR$/TimerAndTimerTasks/TimerAndTimerTasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-basics.iml" filepath="$PROJECT_DIR$/oop-basics.iml" />
